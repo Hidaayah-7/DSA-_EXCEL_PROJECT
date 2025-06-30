@@ -13,9 +13,17 @@ A CSV File gotten from Digital Skill Africa Warehouse
 
 ### Tool Used
 Ms Excel 
-- for Data Collection
-- for Data Cleaning
+- for Data Collection 
+- for Data Cleaning and Preparation
 - Analysis
 - Report Creation (Dashboard)
 
+### Data Cleaning and Preparation
+At the initial stage of the Data Cleaning and Preparation, i performed the following actions;
+1. Data Loading and Inspection into Ms Excel Power Query
+2. Removed Duplicates
+3. Find and Replace Blank Cells
+4. Changed Data Type
+5. Spliting and Merging of Columns
+6. Deleting Unneccesary Columns
 
