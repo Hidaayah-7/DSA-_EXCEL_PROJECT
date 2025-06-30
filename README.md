@@ -28,8 +28,16 @@ At the initial stage of the Data Cleaning and Preparation, i performed the follo
 6. Deleting Unneccesary Columns
 
 7. ### Exploratory Data Analysis
-   This Exploratory Data Analysis (EDA) report aims to provide an in-depth examination of The Amazon Sales Dataset to understand the loan approval patterns, relationships, and characteristic of the data
-Key Performance Indicators (KPIs)
+   This Exploratory Data Analysis (EDA) report aims to provide an in-depth examination of The Amazon product review Dataset to understand sales trend, customer engagement and characteristic of the data
+   
+#### Key Performance Indicators (KPIs)
+
 Performance based on key metrics:
+-	Total Customer: The total count of applicant as 1194
+-	Total Categories: The total categories is 210
+-	Average Rating: The average rating is 4.10
+-	Total Price:  The total price is $7.98 million  
+-	Total Discount: The Total discount is $4.58 million 
+-	Total Revenue: the total revenue of $4.6 million
 
 
