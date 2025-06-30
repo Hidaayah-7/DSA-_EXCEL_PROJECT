@@ -36,8 +36,8 @@ Performance based on key metrics:
 -	Total Customer: The total count of applicant as 1194
 -	Total Categories: The total categories is 210
 -	Average Rating: The average rating is 4.10
--	Total Price:  The total price is $7.98 million  
--	Total Discount: The Total discount is $4.58 million 
--	Total Revenue: the total revenue of $4.6 million
+-	Total Price:  The total price is $7.98 Million  
+-	Total Discount: The Total discount is $4.58 Million 
+-	Total Revenue: the total revenue of $121 Billion
 
 
