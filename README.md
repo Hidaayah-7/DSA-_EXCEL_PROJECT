@@ -22,8 +22,14 @@ Ms Excel
 At the initial stage of the Data Cleaning and Preparation, i performed the following actions;
 1. Data Loading and Inspection into Ms Excel Power Query
 2. Removed Duplicates
-3. Find and Replace Blank Cells
+3. Handling Missing Data
 4. Changed Data Type
 5. Spliting and Merging of Columns
 6. Deleting Unneccesary Columns
+
+7. ### Exploratory Data Analysis
+   This Exploratory Data Analysis (EDA) report aims to provide an in-depth examination of The Amazon Sales Dataset to understand the loan approval patterns, relationships, and characteristic of the data
+Key Performance Indicators (KPIs)
+Performance based on key metrics:
+
 
