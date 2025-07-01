@@ -44,7 +44,7 @@ Performance based on key metrics:
 -	Total Discount: The Total discount is $4.58 Million 
 -	Total Revenue: the total revenue of $121 Billion
 
-### Analysis: - <a href="https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/Amazon%20case%20study.xlsx">View Here</a>
+### Analysis:  <a href="https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/Amazon%20case%20study.xlsx">[View Here]</a>
 
 
 ### Dashboard
