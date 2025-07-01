@@ -47,4 +47,5 @@ Performance based on key metrics:
 ### Dashboard
 
 ![AMAZON](https://github.com/user-attachments/assets/ce51c559-732d-4b8c-b38b-02f6bfda0ecd)
+![ANAZON 2](https://github.com/user-attachments/assets/100a4910-c4c7-4d9e-a48a-3b0c090af476)
 
