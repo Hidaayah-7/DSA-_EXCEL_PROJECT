@@ -13,7 +13,7 @@ This is a comprehensive project designed to assist Amazon with analysing product
 
 ### Data Source:
 A CSV File gotten from Digital Skill Africa Warehouse
-- <a href="https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/Amazon%20%20study.xlsx">Dataset</a>
+- <a href="https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/amazon%20duplicate.xlsx">Dataset</a>
 
 ### Tool Used
 Ms Excel 
