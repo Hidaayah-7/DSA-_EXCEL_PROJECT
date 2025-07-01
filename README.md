@@ -52,5 +52,16 @@ Performance based on key metrics:
 ![ANAZON 2](https://github.com/user-attachments/assets/832348d0-36e3-4abd-8a11-38a23d6e0e69)
 
 
+### Insights
+
+- Top Revenue Generating Categories
+
+Smartphones $39M, Smart Televisions $26M, and Smart Watches $13M
+-- These are the categories that dominates revenue, accounting for the bulk of total sales.
+
+- Average Discount % by Category
+
+Highest: 0.9 (Computers & Accessories, Electronics) and Lowest: 0.82 (Shower & Wall Mounts)
+-- High discounts are clustered around tech categories, driving volume sales.
 
 
