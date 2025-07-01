@@ -44,7 +44,7 @@ Performance based on key metrics:
 -	Total Discount: The Total discount is $4.58 Million 
 -	Total Revenue: the total revenue of $121 Billion
 
-### Analysis: - <a href="https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/Amazon%20case%20study.xlsx">Analysis</a>
+### Analysis: - <a href="https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/Amazon%20case%20study.xlsx">View Here</a>
 
 
 ### Dashboard
@@ -108,9 +108,9 @@ Reviews vs. Revenue: Products with the most reviews are not always the top reven
 Smartwatches have high reviews (76) and discount (0.59) but generate lower revenue ($13M) than Smartphones.
 
 
- Recommendation:
+ #### Recommendation:
 
- I recommend Amazon Considers improving the perceived value or functionality of Smartwatches to increase conversion from reviews to revenue.
+ I recommend that Amazon Considers improving the perceived value or functionality of Smartwatches to increase conversion from reviews to revenue.
 
 Analyze if lower ASP (average selling price) is holding back revenue growth.
 
