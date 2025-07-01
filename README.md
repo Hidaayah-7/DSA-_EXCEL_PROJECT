@@ -46,4 +46,5 @@ Performance based on key metrics:
 
 ### Dashboard
 
-(https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/AMAZON.png)
+![AMAZON](https://github.com/user-attachments/assets/ce51c559-732d-4b8c-b38b-02f6bfda0ecd)
+
