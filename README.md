@@ -57,11 +57,11 @@ Performance based on key metrics:
 - Top Revenue Generating Categories
 
 Smartphones $39M, Smart Televisions $26M, and Smart Watches $13M
--- These are the categories that dominates revenue, accounting for the bulk of total sales.
+These are the categories that dominates revenue, accounting for the bulk of total sales.
 
 - Average Discount % by Category
 
 Highest: 0.9 (Computers & Accessories, Electronics) and Lowest: 0.82 (Shower & Wall Mounts)
--- High discounts are clustered around tech categories, driving volume sales.
+High discounts are clustered around tech categories, driving volume sales.
 
 
