@@ -47,12 +47,15 @@ Performance based on key metrics:
 ### Analysis:  <a href="https://github.com/Hidaayah-7/DSA-_EXCEL_PROJECT/blob/main/Amazon%20case%20study.xlsx">[View Here]</a>
 
 
+
 ### Dashboard
 
 ![AMAZON](https://github.com/user-attachments/assets/f2c1ece1-4d1c-4f9a-88d5-b15c6b2c06f0)
 
 
+
 ![ANAZON 2](https://github.com/user-attachments/assets/832348d0-36e3-4abd-8a11-38a23d6e0e69)
+
 
 
 ### CATEGORY VIEW INSIGHTS
