@@ -113,7 +113,7 @@ Smartwatches have high reviews (76) and discount (0.59) but generate lower reven
 
  #### Recommendation:
 
-Amazon Considers improving the perceived value or functionality of Smartwatches to increase conversion from reviews to revenue.
+Amazon should Considers improving the perceived value or functionality of Smartwatches to increase conversion from reviews to revenue.
 
 Analyze if lower ASP (average selling price) is holding back revenue growth.
 
