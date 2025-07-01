@@ -46,10 +46,11 @@ Performance based on key metrics:
 
 ### Dashboard
 
-![AMAZON](https://github.com/user-attachments/assets/ce51c559-732d-4b8c-b38b-02f6bfda0ecd)
+![AMAZON](https://github.com/user-attachments/assets/f2c1ece1-4d1c-4f9a-88d5-b15c6b2c06f0)
 
 
-![ANAZON 2](https://github.com/user-attachments/assets/100a4910-c4c7-4d9e-a48a-3b0c090af476)
+![ANAZON 2](https://github.com/user-attachments/assets/832348d0-36e3-4abd-8a11-38a23d6e0e69)
+
 
 
 
