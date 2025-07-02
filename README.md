@@ -122,7 +122,7 @@ Analyze if lower ASP (average selling price) is holding back revenue growth.
 
 I recommend that Amazon should:
 
-- Revisit discounting strategy for top performers. Don’t over-discount items that already perform well.
+- Revisit discounting strategy for top performers. Avoid over-discount items that already perform well.
 
 - Consider reducing discount rates for high-performing products with inelastic demand.
 
