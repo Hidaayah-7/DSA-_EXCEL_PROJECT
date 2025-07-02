@@ -9,7 +9,7 @@ MY FINAL PROJECT AS A STUDENT AT DIGITAL SKILL AFRICA
 Amazon is a multinational technology company focused on e-commerce, cloud computing, digital streaming, and artificial intelligence. It started as an online bookstore and has since grown into a global leader in various industries, with operations in over 20 countries. Amazon's core principles include customer obsession, passion for innovation, operational excellence, and long-term thinking, aiming to be the world's most customer-centric company.
 
 ### Project Overview
-This is a comprehensive project designed to assist Amazon with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement to support decision-making.
+This is a comprehensive project designed to assist Amazon with analysing product and customer review data to generate insights that guides product improvement, marketing strategies, and customer engagement to support decision-making.
 
 ### Data Source:
 A CSV File gotten from Digital Skill Africa Warehouse
