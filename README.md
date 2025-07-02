@@ -23,7 +23,7 @@ Ms Excel
 - Report Creation (Dashboard)
 
 ### Data Cleaning and Preparation
-At the initial stage of the Data Cleaning and Preparation, i performed the following actions;
+At the initial stage of the Data Cleaning and Preparation, I performed the following actions;
 1. Data Loading and Inspection into Ms Excel Power Query
 2. Duplicate removal
 3. Handling Missing Data
