@@ -64,7 +64,7 @@ Performance based on key metrics:
 
  Smartphones $39M, Smart Televisions $26M and Smart Watches $13M
 
- These are the categories that dominates revenue, accounting for the bulk of total sales.
+ These are the categories that Dominate revenue, accounting for the bulk of total sales.
 
 
 - Average Discount % by Category
